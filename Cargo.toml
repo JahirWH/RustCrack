@@ -1,0 +1,13 @@
+[package]
+name = "Rust_crack"
+version = "0.1.0"
+edition = "2021"
+authors = ["ahir"]
+description = ""
+license = "MIT"
+repository = "https://github.com/JahirWH/Rust-crack"
+keywords = ["wifi", "psk", "rust", "pw2", "password", "crack"]
+
+[dependencies]
+sha2 = "0.10"
+
