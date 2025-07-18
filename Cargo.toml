@@ -11,3 +11,4 @@ keywords = ["wifi", "psk", "rust", "pw2", "password", "crack"]
 [dependencies]
 sha2 = "0.10"
 
+
